@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@theme {
+  --color-sonic-silver: #6d737d;
+  --color-gunmetal: #1a212f;
+  --color-ghost-white: #f9fbfc;
+  --color-bright-gray: #e9eff2;
+  --color-outrageous-orange: #f4694d;
+  --font-logo: "Fugaz One";
+  --font-sans: "Lexend", sans-serif;
+}
